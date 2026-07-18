@@ -12,3 +12,4 @@ Whether you're an experienced hacker, a curious beginner, or someone who simply 
 Remember, our community is a reflection of your awesomeness and the potential you hold to make a positive impact in the realm of cybersecurity. Together, we'll not only sharpen our skills but also create a safer digital world for all.
 
 Stay awesome and keep hacking responsibly!
+updated the hacker website in past.
